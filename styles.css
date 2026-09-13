@@ -1,0 +1,48 @@
+/* background and text color */
+body {
+    background-color: #f4f1eb;
+    color: #333;
+    font-family: Georgia, serif;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* heading */
+h1 {
+    color: #2e6b3e;
+}
+
+h2 {
+    color: #2e6b3e;
+}
+
+/* links */
+a {
+    color: #2e6b3e;
+}
+
+a:hover {
+    color: #1b4526;
+}
+
+/* image */
+img {
+    width: 350px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+/* paragraphs */
+p {
+    margin-bottom: 12px;
+}
+
+/* list */
+ul {
+    padding-left: 40px;
+}
+
+li {
+    margin-bottom: 8px;
+}
